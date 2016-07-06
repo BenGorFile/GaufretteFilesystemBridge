@@ -10,7 +10,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BenGorFIle\GaufretteFilesystemBridge\Infrastructure\Domain\Model;
+namespace BenGorFile\GaufretteFilesystemBridge\Infrastructure\Domain\Model;
 
 use BenGorFile\File\Domain\Model\FileName;
 use BenGorFile\File\Domain\Model\Filesystem;
